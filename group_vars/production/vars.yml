@@ -1,0 +1,10 @@
+Sts.Role: arn:aws:iam::875455485177:role/DockerProductionAWSAdmin
+Sts.Region: eu-central-1
+
+Config.Repositories:
+  dockerproductionaws/microtrader-base: {}
+  dockerproductionaws/microtrader-audit: {}
+  dockerproductionaws/microtrader-dashboard: {}
+  dockerproductionaws/microtrader-portfolio: {}
+  dockerproductionaws/microtrader-quote: {}
+  dockerproductionaws/squid: {}

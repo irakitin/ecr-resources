@@ -1,0 +1,6 @@
+---
+# Add global settings here
+
+# aws-cloudformation role settings
+Stack.Name: ecr-resources
+Stack.Template: "templates/ecr.yml.j2"
